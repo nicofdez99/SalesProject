@@ -1,4 +1,4 @@
-# SalesProject# Proyecto de Ventas – Módulo de Programación en Java
+# Proyecto de Ventas – Módulo de Programación en Java
 
 Este repositorio contiene la **primera entrega** de la semana 3  
 En esta entrega se implementa la clase `GenerateInfoFiles`, cuya función es generar archivos de entrada pseudoaleatorios para vendedores, productos y ventas.
